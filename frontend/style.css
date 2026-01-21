@@ -11,3 +11,8 @@ form input {
 button {
   cursor: pointer;
 }
+
+ul li{
+  list-style: none; 
+  padding: 10px;
+}
